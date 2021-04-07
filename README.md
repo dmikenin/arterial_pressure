@@ -1,4 +1,4 @@
-# Arterial pressue
+# Arterial pressure
 
 ## Description
 Backend for opensource app Arterial Pressure. App help people 
